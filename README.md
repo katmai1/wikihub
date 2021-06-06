@@ -1,6 +1,8 @@
 # WikiHub
 
-Wiki personal - [enlace](https://katmai1.github.io/wikihub/)
+[WikiHub](https://katmai1.github.io/wikihub/) es para uso personal, para ir recopilando información, herramientas, tutoriales...
+
+---
 
 ### Markdown
 
