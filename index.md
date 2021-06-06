@@ -10,7 +10,7 @@
 
 Todo lo que esté relacionado con la administración de sistemas Linux/Unix va aqui.
 
-- Distribuciones
+- [Distribuciones](/linux/distribuciones.md)
 - Herramientas de administración
 - Bash Scripting
 - Tutoriales
